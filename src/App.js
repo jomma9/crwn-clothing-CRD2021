@@ -1,6 +1,6 @@
 import './App.css';
-import Homepage from './homepage.componet.jsx';
-import homepage from './homepage.componet.jsx';
+import Homepage from './pages/homepage/homepage.componet.jsx';
+import homepage from './pages/homepage/homepage.componet.jsx';
 
 function App() {
   return (
